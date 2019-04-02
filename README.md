@@ -4,3 +4,5 @@
 
 # Email Signatures
 Personal Email Signatures built on HTML
+
+**IMPORTANT:** Whatever icons you use from Google Drive make sure Shareable Link is activated
